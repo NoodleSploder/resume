@@ -1,6 +1,6 @@
 # Jared A. Norris
 **Senior PeopleSoft Developer | Technical & Functional Expert | 20+ Years of Enterprise Solutions**  
-📍 Remote | 📞 (678) 430-8814 | 📧 jarednorris@gmail.com | 🔗 LinkedIn: [linkedin.com/in/jarednorris](#)  
+📍 Remote | 📞 (678) 430-8814 | 📧 jarednorris@gmail.com | 🔗 LinkedIn: [linkedin.com/in/jared-norris](#)  
 
 ---
 
