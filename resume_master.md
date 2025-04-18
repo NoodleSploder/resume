@@ -1,7 +1,3 @@
-To make Jared Norris's resume stand out, we’ll focus on creating a concise, visually appealing, and impactful document that highlights his extensive experience, technical expertise, and unique qualifications. The revised resume will be tailored to emphasize his PeopleSoft expertise, leadership in high-impact projects, and certifications while maintaining a modern, professional design. We'll reduce redundancy, prioritize relevant skills, and use action-oriented language to showcase achievements. The layout will be streamlined to 2-3 pages, ensuring readability and a strong first impression.
-
-
-
 # Jared A. Norris
 **Senior PeopleSoft Developer | Technical & Functional Expert | 20+ Years of Enterprise Solutions**  
 📍 Remote | 📞 (678) 430-8814 | 📧 jarednorris@gmail.com | 🔗 LinkedIn: [linkedin.com/in/jarednorris](#)  
