@@ -105,7 +105,7 @@ Dynamic and results-driven Senior PeopleSoft Developer with over 20 years of exp
 - **Frameworks**: Spring Boot, Django, Node.js, Angular, REST/SOAP APIs  
 - **Databases**: Oracle RDBMS, Microsoft SQL Server, MongoDB, Neo4j  
 - **Tools**: Application Designer, Integration Broker, SQL Developer, JDeveloper, TOAD, Git, PuTTY  
-- **Operating Systems**: Linux (RedHat, Ubuntu, Debian), Windows, Mac OS  
+- **Operating Systems**: Linux (RedHat, Ubuntu, Debian), z/OS, Windows, Mac OS  
 - **Servers**: Oracle WebLogic, Microsoft Active Directory, F5 Load Balancer  
 
 ---
